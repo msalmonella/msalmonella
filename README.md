@@ -14,7 +14,7 @@ Location: Istanbul/TR
 Frameworks: .NET
 Languages: Python, C,
            PHP, C#
-Learning: C, Python
+Learning: Python, C++
 Hobbies: Doomgazing, Music, Bikes(those with the engine room room)
 
 
