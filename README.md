@@ -2,7 +2,7 @@
 > userfetch
 ```
 
-<img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/330px-Tux.svg.png" alt="free the software" width="320" /> 
+<img align="left" src="https://i.pinimg.com/736x/7b/d8/75/7bd87511b796d481f5f6f55fd4d2deb0.jpg" alt="free the software" width="320" /> 
 
 ```csharp
 msalmonella@github
