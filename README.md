@@ -7,7 +7,7 @@
 ```csharp
 msalmonella@github
 -------------------------
-OS: Debian 13 / OpenBSD
+OS: Debian 13 / Arch Linux
 Shell: zsh 5.8
 Pronouns: He/Him
 Location: Istanbul/TR
