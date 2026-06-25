@@ -16,7 +16,7 @@ Languages: Python, C,
            PHP, C#
 Learning: Python, C++
 Hobbies: Doomgazing, Music
-
+Discord: merchantshipsalmonella
 
 ```
 <p align="left">
