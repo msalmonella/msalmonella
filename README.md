@@ -15,7 +15,7 @@ Frameworks: .NET
 Languages: Python, C,
            PHP, C#
 Learning: Python, C++
-Hobbies: Doomgazing, Music, Bikes(those with the engine room room)
+Hobbies: Doomgazing, Music
 
 
 ```
