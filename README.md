@@ -11,7 +11,7 @@ OS: Debian 13 / Arch Linux
 Shell: zsh 5.8
 Pronouns: He/Him
 Location: Istanbul/TR
-Frameworks: .NET
+Frameworks: .NET, Unity
 Languages: Python, C,
            PHP, C#
 Learning: Python, C++
